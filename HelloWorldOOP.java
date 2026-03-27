@@ -8,7 +8,6 @@ public class HelloWorldOOP {
 
     //Creating a method to print the message
     public void printMessage() {
-        System.out.println("---Featured Version---");
         System.out.println("Message:" + this.message);
     }
 
